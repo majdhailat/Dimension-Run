@@ -1,0 +1,275 @@
+('C:\\Users\\majdh\\Desktop\\Dimension Run '
+ 'v10\\build\\DimensionRun\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\majdh\\Desktop\\Dimension Run '
+   'v10\\build\\DimensionRun\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\majdh\\Desktop\\Dimension Run '
+   'v10\\build\\DimensionRun\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\majdh\\Desktop\\Dimension Run '
+   'v10\\build\\DimensionRun\\localpycos\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\majdh\\Desktop\\Dimension Run '
+   'v10\\build\\DimensionRun\\localpycos\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\majdh\\Desktop\\Dimension Run '
+   'v10\\build\\DimensionRun\\localpycos\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('DimensionRun',
+   'C:\\Users\\majdh\\Desktop\\Dimension Run v10\\DimensionRun.py',
+   'PYSOURCE'),
+  ('python37.dll',
+   'c:\\program files (x86)\\python37-32\\python37.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\program files (x86)\\python37-32\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_ctypes',
+   'c:\\program files (x86)\\python37-32\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_ssl', 'c:\\program files (x86)\\python37-32\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('pyexpat',
+   'c:\\program files (x86)\\python37-32\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\program files (x86)\\python37-32\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\program files (x86)\\python37-32\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\program files (x86)\\python37-32\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\program files (x86)\\python37-32\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_bz2', 'c:\\program files (x86)\\python37-32\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata',
+   'c:\\program files (x86)\\python37-32\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pygame.imageext',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\imageext.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.fastevent',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\fastevent.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.scrap',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\scrap.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.mixer',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\mixer.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.mixer_music',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\mixer_music.cp37-win32.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\program files (x86)\\python37-32\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pygame.font',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\font.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame._freetype',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\_freetype.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.transform',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\transform.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.time',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\time.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.overlay',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\overlay.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.pixelarray',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\pixelarray.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.mask',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\mask.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.surface',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\surface.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.pixelcopy',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\pixelcopy.cp37-win32.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\program files (x86)\\python37-32\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('pygame.mouse',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\mouse.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.key',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\key.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.joystick',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\joystick.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.image',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\image.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.event',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\event.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.draw',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\draw.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.display',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\display.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.cdrom',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\cdrom.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.math',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\math.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.bufferproxy',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\bufferproxy.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.color',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\color.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.surflock',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\surflock.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.rwobject',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\rwobject.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.rect',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\rect.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.constants',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\constants.cp37-win32.pyd',
+   'EXTENSION'),
+  ('pygame.base',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\base.cp37-win32.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\program files (x86)\\python37-32\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\program files (x86)\\python37-32\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libjpeg-8.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libjpeg-8.dll',
+   'BINARY'),
+  ('SDL.dll',
+   'c:\\program files (x86)\\python37-32\\lib\\site-packages\\pygame\\SDL.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('SDL_image.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\SDL_image.dll',
+   'BINARY'),
+  ('SDL_mixer.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\SDL_mixer.dll',
+   'BINARY'),
+  ('SDL_ttf.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\SDL_ttf.dll',
+   'BINARY'),
+  ('libfreetype-6.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libfreetype-6.dll',
+   'BINARY'),
+  ('libgcc_s_sjlj-1.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libgcc_s_sjlj-1.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('libtiff-5.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('libwebp-5.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libwebp-5.dll',
+   'BINARY'),
+  ('libmpg123-0.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libmpg123-0.dll',
+   'BINARY'),
+  ('libvorbisfile-3.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libvorbisfile-3.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libvorbis-0.dll',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\pygame\\libvorbis-0.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\majdh\\Desktop\\Dimension Run '
+   'v10\\build\\DimensionRun\\base_library.zip',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\program files (x86)\\python37-32\\Include\\pyconfig.h',
+   'DATA'),
+  ('DimensionRun.exe.manifest',
+   'C:\\Users\\majdh\\Desktop\\Dimension Run '
+   'v10\\build\\DimensionRun\\DimensionRun.exe.manifest',
+   'BINARY'),
+  ('pyi-windows-manifest-filename DimensionRun.exe.manifest', '', 'OPTION')],
+ False,
+ False,
+ False)
