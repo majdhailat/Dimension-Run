@@ -3,6 +3,6 @@
 
 <a href="https://www.youtube.com/watch?v=rAI2DPOf260">Teaser Trailer</a>
 
-<a href="https://www.youtube.com/watch?v=jplDtH0bPMY">Official Trailer</a>\
+<a href="https://www.youtube.com/watch?v=jplDtH0bPMY">Official Trailer</a>
 
 Yes... I made a trailer for my python game.
